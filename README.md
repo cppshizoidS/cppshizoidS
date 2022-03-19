@@ -1,8 +1,6 @@
 # README
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+My+name+is+Alex.;I'm+a+student;I'm+learning+a+C%2FC%2B%2B+and+Python;I+plan+to+write+something+soon...)](https://git.io/typing-svg)
 ### GitHub statistic:
-| <img align="left" alt="cppshizoidS's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cppshizoidS&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/> | <img alt="Cppshizoid's languages preferences" src="https://github-readme-stats.vercel.app/api/top-langs/?cppshizoidS=&layout=compact&hide=jupyter notebook&count_private=true&langs_count=8&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> |
-| ------------- | ------------- |
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CppshizoidS&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CppshizoidS&langs_count=5&theme=tokyonight)]()
 
