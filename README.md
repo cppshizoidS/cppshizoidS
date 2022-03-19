@@ -13,3 +13,4 @@
 IDEs:
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg)]
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)]
+[![](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg)]
