@@ -6,7 +6,7 @@
 
 
 
-###Laguages:
+Laguages:
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](C/)
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](C++/)
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](Python/)
@@ -17,12 +17,12 @@
 
 
 
-###IDEs:
+IDEs:
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg)](Clion)
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)](PyCharm)
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg)](WebStorm)
 
-###Contact Me:
+Contact Me:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
