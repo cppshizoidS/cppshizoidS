@@ -21,3 +21,7 @@ IDEs:
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg)](Clion)
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)](PyCharm)
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg)](WebStorm)
+
+### 🎧 Spotify now playing
+
+[![Spotify](https://novatorem.delet-dis.vercel.app/api/spotify)](https://open.spotify.com/user/k2phr1gbs9adbrehk7bvlaffn?si=c606086cf99c4a1a)
