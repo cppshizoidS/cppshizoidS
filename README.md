@@ -24,4 +24,4 @@ IDEs:
 
 ### 🎧 Spotify now playing
 
-[![Spotify](https://open.spotify.com/user/k2phr1gbs9adbrehk7bvlaffn)
+[![Spotify](https://open.spotify.com/user/k2phr1gbs9adbrehk7bvlaffn)]
