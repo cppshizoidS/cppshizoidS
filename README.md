@@ -16,6 +16,6 @@ Laguages:
 
 
 IDEs:
-[![](https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg)][Clion]
-[![](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)][PyCharm]
-[![](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg)][WebStorm]
+[![](https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg)](Clion)
+[![](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)](PyCharm)
+[![](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg)](WebStorm)
