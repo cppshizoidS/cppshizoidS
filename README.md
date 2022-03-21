@@ -31,5 +31,5 @@ Contact Me:
 
 ### 🎧 Spotify now playing
 
-[![Spotify](https://novatorem.delet-dis.vercel.app/api/spotify)](https://open.spotify.com/user/CppshizoidS
+[![Spotify](https://novatorem.delet-dis.vercel.app/api/spotify)](https://open.spotify.com/user/CppshizoidS)
 )
