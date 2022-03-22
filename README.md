@@ -22,7 +22,7 @@ IDEs:
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg)](Clion)
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)](PyCharm)
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg)](WebStorm)
-[![](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJIDEA_icon.svg)](IntelliJIDEA)
+[![](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg)](IntelliJIDEA)
 
 
 Contact Me:
