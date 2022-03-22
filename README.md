@@ -1,5 +1,5 @@
 # README
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+My+name+is+Alex.;I'm+a+student;I'm+learning+a+C%2FC%2B%2B+and+Python;I+plan+to+write+something+soon...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+My+name+is+Alex.;I'm+a+student;I'm+learning+a+C%2FC%2B%2B+,+Python+and+Java;I+plan+to+write+something+soon...)](https://git.io/typing-svg)
 ### GitHub statistic:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CppshizoidS&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CppshizoidS&langs_count=5&theme=tokyonight)]()
