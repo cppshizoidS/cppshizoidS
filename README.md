@@ -27,9 +27,6 @@ IDEs:
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg)](WebStorm)
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg)](IntelliJIDEA)
 
-### 🎧 Spotify now playing
-
-[![Spotify](https://CppshizoidS.delet-dis.vercel.app/api/spotify)
 
 
 Contact Me:
