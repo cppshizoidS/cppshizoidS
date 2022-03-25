@@ -1,7 +1,7 @@
 # README
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+My+name+is+Alex;I'm+a+student;I'm+learning+C%2FC%2B%2B%2C+Python%2C+Java;I+plan+to+write+something+soon...)](https://git.io/typing-svg)
 ### GitHub statistic:
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CppshizoidS&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cppshizoidS&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?usernamecppshizoidS&langs_count=5&theme=tokyonight)]()
 <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=cppshizoidSk&theme=react-dark&hide_border=true&area=true" />
