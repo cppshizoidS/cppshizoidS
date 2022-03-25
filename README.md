@@ -29,7 +29,7 @@ IDEs:
 
 ### 🎧 Spotify now playing
 
-[![Spotify](https://CppshizoidS.delet-dis.vercel.app/api/spotify)][https://open.spotify.com/user/k2phr1gbs9adbrehk7bvlaffn]
+[![Spotify](https://CppshizoidS.delet-dis.vercel.app/api/spotify)
 
 
 Contact Me:
