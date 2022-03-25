@@ -29,7 +29,7 @@ IDEs:
 
 ### 🎧 Spotify now playing
 
-[![Spotify](https://novatorem.delet-dis.vercel.app/api/spotify)]()
+[![Spotify](https://novatorem.delet-dis.vercel.app/api/spotify)](https://open.spotify.com/user/k2phr1gbs9adbrehk7bvlaffn?si=627e59d5d32e46a6)
 
 
 Contact Me:
