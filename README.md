@@ -8,7 +8,6 @@
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=react-dark&hide_border=true&area=true) -->
 </div> 
 
-
 ### Laguages:
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](C/)
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](C++/)
@@ -18,13 +17,11 @@
 [![](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white)](Java/)
 
 
-
 ### IDEs:
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg)](Clion)
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)](PyCharm)
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg)](WebStorm)
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg)](IntelliJIDEA)
-
 
 
 Contact Me:
