@@ -1,5 +1,5 @@
 
-# Hi, I'm Alex  - aka cppshizoidS
+# Hi, I'm Alex  - aka cppshizoidS👋 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+My+name+is+Alex;I'm+a+student;I'm+learning+C%2FC%2B%2B%2C+Python%2C+Java;I+plan+to+write+something+soon...)](https://git.io/typing-svg)
 # GitHub statistic:
