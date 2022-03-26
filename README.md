@@ -19,8 +19,6 @@
 
 
 
-
-
 ### IDEs:
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg)](Clion)
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)](PyCharm)
