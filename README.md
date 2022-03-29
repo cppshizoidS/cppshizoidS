@@ -8,6 +8,9 @@
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=react-dark&hide_border=true&area=true) -->
 </div> 
 
+![GitHub](https://img.shields.io/tokei/lines/github/cppshizoidS?style=for-the-badge)
+
+
 ### Laguages:
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](C/)
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](C++/)
