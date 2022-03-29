@@ -9,7 +9,7 @@
 </div> 
 
 # Vievers count:
-![Profile View Counter](https://komarev.com/ghpvc/?username=cppshi)
+![Profile View Counter](https://komarev.com/ghpvc/?username=cppshizoidS)
 
 
 ### Laguages:
