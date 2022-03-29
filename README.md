@@ -8,6 +8,8 @@
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=react-dark&hide_border=true&area=true) -->
 </div> 
 
+#Vievers count:
+![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
 
 
 ### Laguages:
