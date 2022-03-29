@@ -8,8 +8,6 @@
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=react-dark&hide_border=true&area=true) -->
 </div> 
 
-![GitHub](https://img.shields.io/tokei/lines/github/cppshizoidS/Python|Cpp?style=for-the-badge)
-
 
 
 ### Laguages:
