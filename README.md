@@ -8,7 +8,7 @@
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=react-dark&hide_border=true&area=true) -->
 </div> 
 
-![GitHub](https://img.shields.io/tokei/lines/github/cppshizoidS?style=for-the-badge)
+![GitHub](https://img.shields.io/tokei/lines/github/?cppshizoidS?style=for-the-badge)
 
 
 ### Laguages:
