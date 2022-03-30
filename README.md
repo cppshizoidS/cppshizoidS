@@ -19,6 +19,7 @@
 [![](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white)](Java/)
 
 ### Skills: Qt5, SFML, Glut, Tkinter, PyQt5, PyGame, Numpy, Skitlearn, Neat, Tensorflow
+![800px-Python_and_Qt](https://user-images.githubusercontent.com/77567325/160946360-ed3f8d59-cb5d-4465-a08e-ad5b5f6cb2e5.svg)
 
 ### IDEs:
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg)](Clion)
