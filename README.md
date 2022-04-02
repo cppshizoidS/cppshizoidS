@@ -25,7 +25,12 @@
 [![GLUT](https://img.shields.io/badge/GLUT-00599C?style=for-the-badge&logo=Glut&logoColor=white)](Glut/)
 [![Tkinter](https://img.shields.io/badge/TKINTER-00599C?style=for-the-badge&logo=Tkinter&logoColor=white)](Tkinter/)
 [![PyQT5](https://img.shields.io/badge/PyQT5-00599C?style=for-the-badge&logo=PyQT5&logoColor=white)](PyQT5/)
-[![PyGame](https://img.shields.io/badge/PyGame-090909?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
+[![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
+[![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
+[![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
+[![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
+[![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
+
  Numpy, Skitlearn, Neat, Tensorflow
 
 ### IDEs:
