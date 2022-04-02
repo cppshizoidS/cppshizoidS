@@ -28,7 +28,7 @@
 [![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
 [![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
 [![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
-[![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
  Numpy, Skitlearn, Neat
