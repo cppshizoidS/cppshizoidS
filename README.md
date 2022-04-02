@@ -2,6 +2,10 @@
 
 # GitHub statistic📈:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cppshizoidS&count_private=true&theme=tokyonight&showicons=true)]()
+<div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=react-dark&hide_border=true&area=true" />
+<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=react-dark&hide_border=true&area=true) -->
+</div> 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cppshizoidS&langs_count=5&theme=tokyonight)]()
 
 
