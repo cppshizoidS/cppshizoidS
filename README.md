@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+my+name+Alex;Aka+Cppshizoid;Skils%3A+C%2FC%2B%2B%2C+Java%2C+Python%2C+Web;I+plan+to+write+something+soon...)](https://git.io/typing-svg)
 
 # GitHub statistic📈:
-| <img align="left" alt="cppshizoidS's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cppshizoidS&theme=tokyionight&show_icons=true&hide_border=tokyionight&showicons =true"/> | <img alt="cppshizoidS's languages preferences" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cppshizoidS&layout=compact&hide=tokyonight&showicons=true notebook&count_private=true&langs_count=8&show_icons=true&hide_border=true&theme=tokyonight&showicons=true" /> |
+| <img align="left" alt="cppshizoidS's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cppshizoidS&theme=tokyonight&show_icons=true&hide_border=tokyionight&showicons =true"/> | <img alt="cppshizoidS's languages preferences" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cppshizoidS&layout=compact&hide=tokyonight&showicons=true notebook&count_private=true&langs_count=8&show_icons=true&hide_border=true&theme=tokyonight&showicons=true" /> |
 | ------------- | ------------- |
 
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=cppshizoidS&theme=tokyonight&show_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="cppshizoidS" /></div>
