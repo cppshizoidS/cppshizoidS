@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+my+name+Alex;Aka+Cppshizoid;Skils%3A+C%2FC%2B%2B%2C+Java%2C+Python%2CWeb;I+plan+to+write+something+soon...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+my+name+Alex;Aka+Cppshizoid;Skils%3A+C%2FC%2B%2B%2C+Java%2C+Python%2C+Web;I+plan+to+write+something+soon...)](https://git.io/typing-svg)
 
 # GitHub statistic📈:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cppshizoidS&count_private=true&theme=tokyonight&showicons=true)]()
