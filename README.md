@@ -25,9 +25,8 @@
 [![GLUT](https://img.shields.io/badge/GLUT-00599C?style=for-the-badge&logo=Glut&logoColor=white)](Glut/)
 [![Tkinter](https://img.shields.io/badge/TKINTER-00599C?style=for-the-badge&logo=Tkinter&logoColor=white)](Tkinter/)
 [![PyQT5](https://img.shields.io/badge/PyQT5-00599C?style=for-the-badge&logo=PyQT5&logoColor=white)](PyQT5/)
-[![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
-[![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
-[![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
+[![Skitlearn](https://img.shields.io/badge/Skitlearn-23E34F26?style=for-the-badge&logo=Skitlearn&logoColor=white)](Skitlearn/)
+[![Neat](https://img.shields.io/badge/Neat-23E34F26?style=for-the-badge&logo=Neat&logoColor=white)](Neat/)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
