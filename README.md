@@ -29,9 +29,9 @@
 [![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
 [![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
 [![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
-[![PyGame](https://img.shields.io/badge/PyGame-23E34F26?style=for-the-badge&logo=PyGame&logoColor=white)](PyGame/)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
- Numpy, Skitlearn, Neat, Tensorflow
+ Numpy, Skitlearn, Neat
 
 ### IDEs:
 ![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=yellow)
