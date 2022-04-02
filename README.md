@@ -19,7 +19,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
-### Skills: Qt5, SFML, Glut, Tkinter, PyQt5, PyGame, Numpy, Skitlearn, Neat, Tensorflow
+### Skills:
+[![Qt5](https://img.shields.io/badge/Qt5-00599C?style=for-the-badge&logo=Qt5&logoColor=white)](QT5/)
+Qt5, SFML, Glut, Tkinter, PyQt5, PyGame, Numpy, Skitlearn, Neat, Tensorflow
 
 ### IDEs:
 ![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=yellow)
