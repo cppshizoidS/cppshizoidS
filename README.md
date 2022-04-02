@@ -24,10 +24,10 @@
 ### Skills: Qt5, SFML, Glut, Tkinter, PyQt5, PyGame, Numpy, Skitlearn, Neat, Tensorflow
 
 ### IDEs:
-[![](https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg)](Clion)
-[![](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)](PyCharm)
-[![](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg)](WebStorm)
-[![](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg)](IntelliJIDEA)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black&labelColor=blue)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=red)
+![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=yellow)
 
 
 Contact Me:
