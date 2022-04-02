@@ -5,7 +5,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cppshizoidS&langs_count=6&theme=tokyonight)]()
 <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=react-dark&hide_border=true&area=true" />
-<![Contribution](https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=react-dark&hide_border=true&area=true)/>
+<![Contribution](https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=tokyonight&hide_border=true&area=true)/>
 </div> 
 
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=cppshizoidS&theme=tokyonight&show_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="cppshizoidS" /></div>
