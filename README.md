@@ -31,7 +31,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23013243.svg?style=for-the-badge&logo=JavaFX&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node&labelColor=0D1117)
+[![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node&labelColor=0D1117)](NodeJS/)
 
 
 ### IDEs:
