@@ -31,6 +31,7 @@
 [![Neat](https://img.shields.io/badge/Neat-23E34F26.svg?style=for-the-badge&logo=Neat&logoColor=white)](Neat/)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23013243.svg?style=for-the-badge&logo=JavaFX&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23013243.svg?style=for-the-badge&logo=Node.JS&logoColor=white)
