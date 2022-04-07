@@ -34,6 +34,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23013243.svg?style=for-the-badge&logo=JavaFX&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23013243.svg?style=for-the-badge&logo=Node.JS&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ### Tools:
