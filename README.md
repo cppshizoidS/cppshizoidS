@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 ### Skills:
-[![Qt5](https://img.shields.io/badge/Qt5-00599C.svg?style=for-the-badge&logo=Qt5&logoColor=white)](QT5/)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 [![SFML](https://img.shields.io/badge/SFML-00599C.svg?style=for-the-badge&logo=SFML&logoColor=white)](SFML/)
 [![GLUT](https://img.shields.io/badge/GLUT-00599C.svg?style=for-the-badge&logo=Glut&logoColor=white)](Glut/)
 [![Tkinter](https://img.shields.io/badge/TKINTER-00599C.svg?style=for-the-badge&logo=Tkinter&logoColor=white)](Tkinter/)
