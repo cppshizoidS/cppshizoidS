@@ -9,6 +9,8 @@
 </div> 
 
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=cppshizoidS&theme=tokyonight&show_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="cppshizoidS" /></div>
+[![cppshizoidS's github activity graph](https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=dracula)](https://github.com/cppshizoidS/github-readme-activity-graph)
+
 
 
 ### Laguages:
