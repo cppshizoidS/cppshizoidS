@@ -21,7 +21,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
-### Skills:
+### Skills on basic level:
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 [![SFML](https://img.shields.io/badge/SFML-00599C.svg?style=for-the-badge&logo=SFML&logoColor=white)](SFML/)
 [![GLUT](https://img.shields.io/badge/GLUT-00599C.svg?style=for-the-badge&logo=Glut&logoColor=white)](Glut/)
