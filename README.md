@@ -54,6 +54,5 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Vk](https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge)
-[<img alt="cppshizoid2 | VK" src="https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge" />]
 
 
