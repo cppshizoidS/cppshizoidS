@@ -22,6 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 ### Skills on basic level:
+![STL](https://img.shields.io/badge/STL-00599C.svg?style=for-the-badge&logo=STL&logoColor=white)](STL/)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 [![SFML](https://img.shields.io/badge/SFML-00599C.svg?style=for-the-badge&logo=SFML&logoColor=white)](SFML/)
 [![GLUT](https://img.shields.io/badge/GLUT-00599C.svg?style=for-the-badge&logo=Glut&logoColor=white)](Glut/)
