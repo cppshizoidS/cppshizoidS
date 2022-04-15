@@ -36,7 +36,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23013243.svg?style=for-the-badge&logo=JavaFX&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23013243.svg?style=for-the-badge&logo=Node.JS&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools:
 ![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=yellow)
