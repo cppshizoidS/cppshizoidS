@@ -52,4 +52,3 @@
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=ThanX+For+Attention)](https://git.io/typing-svg)
-<a href="https://www.flaticon.com/ru/free-icons/-" title="улыбающееся лицо иконки">Улыбающееся лицо иконки от Md Tanvirul Haque - Flaticon</a>
