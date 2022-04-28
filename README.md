@@ -49,3 +49,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://tlgg.ru/cppshizoid)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/669016627890749449)
 [![Vk](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/cppshizoid2)
+
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=ThanX+For+Attention%3D))](https://git.io/typing-svg)
