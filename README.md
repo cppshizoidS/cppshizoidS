@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hello%2C+My+name+is+Alex;Aka+Cppshizoid;Skills%3A+C%2FC%2B%2B%2C%20Python%2C%20Java%2C%20C%23%2C%;I+plan+write+something+soon...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hello%2C+My+name+is+Alex;Aka+Cppshizoid;Skills%3A+C%2FC%2B%2B%2C%20Python%2C%20Java%2C%20C%23%2C;I+plan+write+something+soon...)](https://git.io/typing-svg)
 
 # GitHub statistic📈:
 | <img align="left" alt="cppshizoidS's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cppshizoidS&theme=tokyonight&show_icons=true&hide_border=tokyionight&showicons =true"/> | <img alt="cppshizoidS's languages preferences" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cppshizoidS&layout=compact&hide=tokyonight&showicons=true notebook&count_private=false&langs_count=8&show_icons=true&hide_border=true&theme=tokyonight&showicons=true" /> |
