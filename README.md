@@ -51,4 +51,4 @@
 [![Vk](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/cppshizoid2)
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=ThanX+For+Attention)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=ThanX+For+Attention!)](https://git.io/typing-svg)
