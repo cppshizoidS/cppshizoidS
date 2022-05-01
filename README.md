@@ -26,11 +26,9 @@
 [![GLUT](https://img.shields.io/badge/GLUT-00599C.svg?style=for-the-badge&logo=Glut&logoColor=white)](Glut/)
 [![Tkinter](https://img.shields.io/badge/TKINTER-00599C.svg?style=for-the-badge&logo=Tkinter&logoColor=white)](Tkinter/)
 [![PyQT5](https://img.shields.io/badge/PyQT5-00599C.svg?style=for-the-badge&logo=PyQT5&logoColor=white)](PyQT5/)
-[![Skitlearn](https://img.shields.io/badge/Skitlearn-23E34F26.svg?style=for-the-badge&logo=Skitlearn&logoColor=white)](Skitlearn/)
 [![Neat](https://img.shields.io/badge/Neat-23E34F26.svg?style=for-the-badge&logo=Neat&logoColor=white)](Neat/)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Tools:
