@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=CppshizoiS&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hello%2C+My+name+is+Alex;Aka+Cppshizoid;Skills%3A+C%2FC%2B%2B%2C%20Python%2C%20Java%2C%20C%23%2C;I+plan+write+something+soon...)](https://git.io/typing-svg)
 
 # GitHub statistic📈:
