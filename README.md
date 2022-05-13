@@ -1,3 +1,5 @@
+![Phanatagama](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hello%2C+My+name+is+Alex;Aka+Cppshizoid;Skills%3A+C%2FC%2B%2B%2C%20Python%2C%20Java%2C%20C%23%2C;I+plan+write+something+soon...)](https://git.io/typing-svg)
 
 # GitHub statistic📈:
