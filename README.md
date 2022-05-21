@@ -23,9 +23,13 @@
 
 ### Now Learning:
  *Spring
+ 
  *Docker
+ 
  *Administration
+ 
  *Pentesting
+ 
  *Attack-Defence for CTF competiion
 
 ### Tools:
