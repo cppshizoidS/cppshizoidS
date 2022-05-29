@@ -23,17 +23,12 @@
 
 ### Now Learning:
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-
-
-### Future Learning:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
- Administration
- 
- Pentesting
- 
- Attack-Defence for CTF competiion
+ *Administration
+ *Pentesting
+ *Attack-Defence for CTF competiion
 
 ### Tools:
 ![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=yellow)
