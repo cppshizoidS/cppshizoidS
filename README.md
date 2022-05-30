@@ -11,7 +11,7 @@
 </div> 
 
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=cppshizoidS&theme=material-palenight&show_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="cppshizoidS" /></div>
-
+[![cppshizoidS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cppshizoidS)](https://github.com/cppshizoiS/github-readme-stats)
 
 ### Laguages:
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](C/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](C++/) [![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white)](Java/)
