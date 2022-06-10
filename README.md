@@ -56,7 +56,3 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=ThanX+for+your+attention!)](https://git.io/typing-svg)
 
 ![Phanatagama](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-
-<p align="center" width="50%">
-    <img width="50%" src="https://i2.wp.com/windtux.com/wp-content/uploads/2017/09/gtk-logo.png?ssl=1"> 
-</p>
