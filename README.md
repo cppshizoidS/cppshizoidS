@@ -20,7 +20,23 @@
 
 
 ### Skills on basic level:
-![STL](https://img.shields.io/badge/STL-00599C.svg?style=for-the-badge&logo=STL&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![GTK](https://img.shields.io/badge/GTK-%23217346.svg?style=for-the-badge&logo=GTK&logoColor=white) [![SFML](https://img.shields.io/badge/SFML-00599C.svg?style=for-the-badge&logo=SFML&logoColor=white)](SFML/) [![GLUT](https://img.shields.io/badge/GLUT-00599C.svg?style=for-the-badge&logo=Glut&logoColor=white)](Glut/) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) [![Tkinter](https://img.shields.io/badge/TKINTER-00599C.svg?style=for-the-badge&logo=Tkinter&logoColor=white)](Tkinter/)  [![PyQT5](https://img.shields.io/badge/PyQT5-00599C.svg?style=for-the-badge&logo=PyQT5&logoColor=white)](PyQT5/) [![Neat](https://img.shields.io/badge/Neat-23E34F26.svg?style=for-the-badge&logo=Neat&logoColor=white)](Neat/) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![DJango](https://img.shields.io/badge/django-%23013243.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) [![LWJGL](https://img.shields.io/badge/LWJGL-00599C.svg?style=for-the-badge&logo=LWJGL&logoColor=white)](LWJGL/)
+![STL](https://img.shields.io/badge/STL-00599C.svg?style=for-the-badge&logo=STL&logoColor=white) 
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
+![GTK](https://img.shields.io/badge/GTK-%23217346.svg?style=for-the-badge&logo=GTK&logoColor=white) 
+[![SFML](https://img.shields.io/badge/SFML-00599C.svg?style=for-the-badge&logo=SFML&logoColor=white)](SFML/)
+[![GLUT](https://img.shields.io/badge/GLUT-00599C.svg?style=for-the-badge&logo=Glut&logoColor=white)](Glut/) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+[![Tkinter](https://img.shields.io/badge/TKINTER-00599C.svg?style=for-the-badge&logo=Tkinter&logoColor=white)](Tkinter/) 
+[![PyQT5](https://img.shields.io/badge/PyQT5-00599C.svg?style=for-the-badge&logo=PyQT5&logoColor=white)](PyQT5/) 
+[![Neat](https://img.shields.io/badge/Neat-23E34F26.svg?style=for-the-badge&logo=Neat&logoColor=white)](Neat/) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![DJango](https://img.shields.io/badge/django-%23013243.svg?style=for-the-badge&logo=django&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+[![LWJGL](https://img.shields.io/badge/LWJGL-00599C.svg?style=for-the-badge&logo=LWJGL&logoColor=white)](LWJGL/)
 
 ### Now Learning:
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
