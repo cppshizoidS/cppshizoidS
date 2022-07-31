@@ -32,6 +32,7 @@
 [![SFML](https://img.shields.io/badge/SFML-00599C.svg?style=for-the-badge&logo=SFML&logoColor=white)](SFML/)
 [![GLUT](https://img.shields.io/badge/GLUT-00599C.svg?style=for-the-badge&logo=Glut&logoColor=white)](Glut/) 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![GLSL](https://img.shields.io/badge/GLSL-%23FFFFFF.svg?style=for-the-badge&logo=GLSL)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 [![Tkinter](https://img.shields.io/badge/TKINTER-00599C.svg?style=for-the-badge&logo=Tkinter&logoColor=white)](Tkinter/) 
 [![PyQT5](https://img.shields.io/badge/PyQT5-00599C.svg?style=for-the-badge&logo=PyQT5&logoColor=white)](PyQT5/) 
