@@ -22,6 +22,7 @@
 
 ### Skills:
 Advanced:
+
 ![STL](https://img.shields.io/badge/STL-00599C.svg?style=for-the-badge&logo=STL&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
 ![GTK](https://img.shields.io/badge/GTK-%23217346.svg?style=for-the-badge&logo=GTK&logoColor=white) 
@@ -32,7 +33,8 @@ Advanced:
 ![GLFW](https://img.shields.io/badge/GLFW-%23FFFFFF.svg?style=for-the-badge&logo=gflw)
 ![GLEW](https://img.shields.io/badge/GLEW-%23FFFFFF.svg?style=for-the-badge&logo=glew)
 
-Intermeduate
+Intermeduate:
+
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![DJango](https://img.shields.io/badge/django-%23013243.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -40,7 +42,8 @@ Intermeduate
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-Elementary
+Elementary:
+
 [![LWJGL](https://img.shields.io/badge/LWJGL-00599C.svg?style=for-the-badge&logo=LWJGL&logoColor=white)](LWJGL/)
 [![Swing](https://img.shields.io/badge/Swing-00599C.svg?style=for-the-badge&logo=Swing&logoColor=white)](Swing/) 
 [![Neat](https://img.shields.io/badge/Neat-23E34F26.svg?style=for-the-badge&logo=Neat&logoColor=white)](Neat/) 
