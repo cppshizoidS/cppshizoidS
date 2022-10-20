@@ -25,7 +25,6 @@ Advanced:
 
 ![STL](https://img.shields.io/badge/STL-00599C.svg?style=for-the-badge&logo=STL&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
-![GTK](https://img.shields.io/badge/GTK-%23217346.svg?style=for-the-badge&logo=GTK&logoColor=white) 
 [![SFML](https://img.shields.io/badge/SFML-00599C.svg?style=for-the-badge&logo=SFML&logoColor=white)](SFML/)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![GLSL](https://img.shields.io/badge/GLSL-%23FFFFFF.svg?style=for-the-badge&logo=GLSL)
@@ -46,6 +45,7 @@ Intermeduate:
 
 Elementary:
 
+![GTK](https://img.shields.io/badge/GTK-%23217346.svg?style=for-the-badge&logo=GTK&logoColor=white)
 [![LWJGL](https://img.shields.io/badge/LWJGL-00599C.svg?style=for-the-badge&logo=LWJGL&logoColor=white)](LWJGL/)
 [![Swing](https://img.shields.io/badge/Swing-00599C.svg?style=for-the-badge&logo=Swing&logoColor=white)](Swing/) 
 [![Neat](https://img.shields.io/badge/Neat-23E34F26.svg?style=for-the-badge&logo=Neat&logoColor=white)](Neat/) 
