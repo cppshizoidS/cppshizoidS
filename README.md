@@ -4,7 +4,9 @@
 
 # GitHub statistic📈:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cppshizoidS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-| ------------- | ------------- |
+
+[![cppshizoidS's GitHub stats](https://github-readme-stats.vercel.app/api?username=cppshizoidS)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=material-palenight&hide_border=true&area=true" />
 <!  ![Contribution](https://activity-graph.herokuapp.com/graph?username=cppshizoidS&theme=tokyonight&hide_border=true&area=true) -->
