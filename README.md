@@ -34,7 +34,7 @@ Advanced:
 ![GLFW](https://img.shields.io/badge/GLFW-%23FFFFFF.svg?style=for-the-badge&logo=gflw)
 ![GLEW](https://img.shields.io/badge/GLEW-%23FFFFFF.svg?style=for-the-badge&logo=glew)
 ![SDL](https://img.shields.io/badge/SDL-%23FFFFFF.svg?style=for-the-badge&logo=sdl)
-
+![ImGUI](https://img.shields.io/badge/ImGUI-%23FFFFFF.svg?style=for-the-badge&logo=imgui)
 
 Intermeduate:
 
