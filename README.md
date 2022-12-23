@@ -50,6 +50,7 @@ Intermeduate:
 Elementary:
 
 ![GTK](https://img.shields.io/badge/GTK-%23217346.svg?style=for-the-badge&logo=GTK&logoColor=white)
+![Poco](https://img.shields.io/badge/Poco-%23217346.svg?style=for-the-badge&logo=Poco&logoColor=white)
 [![LWJGL](https://img.shields.io/badge/LWJGL-00599C.svg?style=for-the-badge&logo=LWJGL&logoColor=white)](LWJGL/)
 [![Swing](https://img.shields.io/badge/Swing-00599C.svg?style=for-the-badge&logo=Swing&logoColor=white)](Swing/) 
 [![Neat](https://img.shields.io/badge/Neat-23E34F26.svg?style=for-the-badge&logo=Neat&logoColor=white)](Neat/) 
@@ -61,7 +62,7 @@ Elementary:
 
 Learning:
 * Vulkan API
-* Poco Libs
+
 
 ### Tools:
 ![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=yellow)
