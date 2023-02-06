@@ -14,7 +14,7 @@
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](C#/)
 [![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white)](Java/) 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](Python/)
-
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Skills:
 Advanced:
@@ -32,7 +32,9 @@ Advanced:
 
 Intermeduate:
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Drogon](https://img.shields.io/badge/Drogon-%23FFFFFF.svg?style=for-the-badge&logo=drogon)
+![Poco](https://img.shields.io/badge/Poco-00599C.svg?style=for-the-badge&logo=Poco&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![DJango](https://img.shields.io/badge/django-%23013243.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -44,7 +46,6 @@ Intermeduate:
 Elementary:
 
 ![GTK](https://img.shields.io/badge/GTK-%23217346.svg?style=for-the-badge&logo=GTK&logoColor=white)
-![Poco](https://img.shields.io/badge/Poco-00599C.svg?style=for-the-badge&logo=Poco&logoColor=white)
 [![LWJGL](https://img.shields.io/badge/LWJGL-00599C.svg?style=for-the-badge&logo=LWJGL&logoColor=white)](LWJGL/)
 [![Swing](https://img.shields.io/badge/Swing-00599C.svg?style=for-the-badge&logo=Swing&logoColor=white)](Swing/) 
 [![Neat](https://img.shields.io/badge/Neat-23E34F26.svg?style=for-the-badge&logo=Neat&logoColor=white)](Neat/) 
