@@ -63,6 +63,7 @@ Learning:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-%2300ADD8.svg?style=for-the-badge&logo=Fiber&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-%2300ADD8.svg?style=for-the-badge&logo=GORM&logoColor=white)
+![Viper](https://img.shields.io/badge/Viper-%2300ADD8.svg?style=for-the-badge&logo=Viper&logoColor=white)
 
 ### Tools:
 [Linux Tooling](https://github.com/cppshizoidS/dotfiles)
