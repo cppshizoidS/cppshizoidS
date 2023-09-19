@@ -92,3 +92,48 @@ Learning:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=ThanX+for+your+attention!)](https://git.io/typing-svg)
 
 ![Phanatagama](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
+
+```cpp
+#include <algorithm>
+#include <array>
+#include <iostream>
+
+template <typename... Args> class hello_world_printer {
+private:
+  template <typename _Sequence_Argument>
+  constexpr auto push_one(_Sequence_Argument &&arg) -> decltype(auto) {
+    if constexpr (!std::is_integral_v<std::decay_t<_Sequence_Argument>>) {
+      return int(arg);
+    } else {
+      return char(arg);
+    }
+  }
+  std::array<char, sizeof...(Args)> arguments;
+
+public:
+  constexpr hello_world_printer(Args... args)
+      : arguments({push_one(args)...}) {}
+  constexpr auto get() const noexcept { return arguments; }
+  template <typename _Ch, typename _Tr, typename _Tuple, std::size_t... _Is>
+  static constexpr void print_impl(std::basic_ostream<_Ch, _Tr> &ostream,
+                                   const _Tuple &t,
+                                   std::index_sequence<_Is...>) {
+    ((ostream << (_Is == 0 ? "" : ", ") << std::get<_Is>(t.get())), ...);
+  }
+};
+template <typename _Ch, typename _Tr, typename... _Args>
+constexpr std::ostream &
+operator<<(std::basic_ostream<_Ch, _Tr> &ostream,
+           const hello_world_printer<_Args...> &printer) {
+  ostream << '(';
+  hello_world_printer<_Args...>::print_impl(
+      ostream, printer, std::index_sequence_for<_Args...>());
+  return ostream << ')';
+}
+int main() {
+  std::cout << hello_world_printer('H', 'e', 'l', 'l', 'o', ' ', 'w', 'o', 'r','l', 'd')
+            << std::endl;
+  return EXIT_SUCCESS;
+}
+```
