@@ -32,7 +32,7 @@ Intermeduate:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Drogon](https://img.shields.io/badge/Drogon-%23FFFFFF.svg?style=for-the-badge&logo=drogon)
 ![Boost](https://img.shields.io/badge/Boost-%23FFFFFF.svg?style=for-the-badge&logo=Boost)
-![Poco](https://img.shields.io/badge/Poco-00599C.svg?style=for-the-badge&logo=Poco&logoColor=white)
+![PocoLibs](https://img.shields.io/badge/Poco-00599C.svg?style=for-the-badge&logo=Poco&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
