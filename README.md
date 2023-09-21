@@ -45,7 +45,7 @@ Learning:
 * Vulkan API
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-990000?logo=vulkan&logoColor=white&style=for-the-badge)
 
 ### Tools:
 [Linux Tooling](https://github.com/cppshizoidS/dotfiles)
