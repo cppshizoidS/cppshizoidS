@@ -55,6 +55,7 @@ Learning:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![QT Creator](https://img.shields.io/badge/qtcreator-143?style=for-the-badge&logo=qtcreator&logoColor=black&color=black&labelColor=yellow)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Conan](https://img.shields.io/badge/Conan-%23008FBA.svg?style=for-the-badge&logo=conan&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
