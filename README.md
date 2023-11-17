@@ -62,7 +62,6 @@ Learning:
 ### Contact Me☎️:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](href="mailto:alex.krivoschecov@gmail.com")
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cppshizoid)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/669016627890749449)
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=ThanX+for+your+attention!)](https://git.io/typing-svg)
