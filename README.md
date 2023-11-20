@@ -46,6 +46,7 @@ Learning:
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-990000?logo=vulkan&logoColor=white&style=for-the-badge)
+![ASP.NetCore](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=ASP.netcore&logoColor=white)
 
 ### Tools:
 [Linux Tooling](https://github.com/cppshizoidS/dotfiles)
