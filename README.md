@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1F6FEB&height=180&section=header&text=CppshizoiS&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hello+Everyone!;+I'a+Alex+(aka+Cppshizoid);Skills%3A+C%2FC%2B%2B%2C+C%23;I+plan+write+something+soon...)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&random=false&width=435&lines=Hello%2C+Everyone!;I'm+Alex+(aka+Cppshizoid);Skills%3A+C%2C+C%2B%2B%2C+C%23;Area+of+%E2%80%8B%E2%80%8Binterest%3A;TMP%2CGraphics%2CBackend;Plan+to+write+something+soon...)](https://git.io/typing-svg)
 # GitHub statistic📈:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cppshizoidS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
