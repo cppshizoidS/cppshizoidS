@@ -50,7 +50,7 @@ Learning:
 ### Tools:
 [Linux Tooling](https://github.com/cppshizoidS/dotfiles)
 
-### [Project boilerplate](https://github.com/cppshizoidS/dotfiles/tree/main/cpp_conan_boilerplate)
+### [Project boilerplate](https://github.com/cppshizoidS/cmake_boilerplate)
 
 
 ![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=yellow)
