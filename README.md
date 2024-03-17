@@ -51,7 +51,7 @@ Learning:
 [Linux Tooling](https://github.com/cppshizoidS/dotfiles)
 
 ### [Project boilerplate](https://github.com/cppshizoidS/cmake_boilerplate)
-
+### [QT Project boilerplate](https://github.com/cppshizoidS/cmake_boilerplate/tree/qt)
 
 ![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=yellow)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
